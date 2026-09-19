@@ -1,33 +1,35 @@
-# Exercícios — Back-end Java (Alura)
+# Java Evolution — Alura Backend Exercises
 
-Repositório com os exercícios práticos desenvolvidos 
-durante o curso de Back-end Java da Alura, organizados 
-por níveis e páginas.
+Practical exercises from Alura's Java Backend course, organized by level and topic.
 
-## Estrutura do projeto
+> **Note:** This repository is for study purposes. Exercises include both the problem statements and solutions.
 
-Os exercícios estão separados assim:
+## Project Structure
 
-- `nivel-1/`
-    - `pagina-10/`
-        - `exercicio-01/`
-        - `enunciado.md`
-    - `pagina-11/`
-- `nivel-2/`
-- `nivel-3/`
+```
+nivel1/
+  pagina-10/
+    exercicio-01/
+nivel2/
+nivel3/
+Encapsulamento/
+listasecolecoes/
+orientacaoaobjetos2/
+```
 
-> Cada pasta contém o código do exercício e, 
-quando aplicável, o arquivo com o enunciado/resumo.
+Each folder contains the exercise code and, where applicable, the problem statement.
 
-## Como executar
+## Topics Covered
 
-1. Tenha o **JDK** instalado (ex.: 17+).
-2. Abra o projeto na sua IDE (IntelliJ ou VS Code).
-3. Rode as classes que possuem `
-public static voidnmain(String[] args)`.
+- Input/output and control flow
+- Loops and conditionals
+- Classes, objects, and encapsulation
+- Object-oriented programming (OOP)
+- Lists and collections
+- Data manipulation
 
-## Observações
+## How to Run
 
-- Este repositório tem fins de estudo e prática.
-- Os enunciados foram organizados para facilitar revisão e
-navegação.
+1. Make sure JDK 17+ is installed
+2. Open the project in IntelliJ IDEA or VS Code
+3. Run any class that contains `public static void main(String[] args)`
